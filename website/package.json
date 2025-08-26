@@ -101,7 +101,7 @@
     "@storybook/nextjs": "^7.0.22",
     "@storybook/react": "^7.0.22",
     "@storybook/testing-library": "^0.2.0",
-    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/react": "^13.4.0",
     "@types/accept-language-parser": "^1.5.3",
     "@types/node": "^20.2.5",
