@@ -10,7 +10,7 @@ async-timeout==4.0.2
 attrs==22.2.0
 backcall==0.2.0
 beautifulsoup4==4.11.2
-bleach==6.0.0
+bleach==6.4.0
 bpytop==1.0.68
 bs4==0.0.1
 cachetools==5.3.0
