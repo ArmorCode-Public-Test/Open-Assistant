@@ -3,7 +3,7 @@ alembic
 asyncpg
 authlib
 beautifulsoup4 # web_retriever plugin
-cryptography==39.0.0
+cryptography==46.0.5
 fastapi-limiter
 fastapi[all]==0.88.0
 google-api-python-client
@@ -17,7 +17,7 @@ psutil
 pydantic
 pynvml
 PyPDF2 # web_retriever plugin
-python-jose[cryptography]==3.3.0
+python-jose[cryptography]==3.4.0
 pyyaml # web_retriever plugin
 redis
 sqlmodel
